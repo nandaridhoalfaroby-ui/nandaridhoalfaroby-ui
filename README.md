@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Nanda Ridho Alfa Roby**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=220&section=header&text=NANDA%20RIDHO%20ALFA%20ROBY&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Flutter%20Developer%20%7C%20Tech%20Builder&descAlignY=58&descSize=17"/>
 
 ### 🚀 Student Developer • Flutter Developer • UI/UX Enthusiast • Tech Builder
 
@@ -8,10 +8,22 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)](https://dart.dev/)
-[![Indonesia](https://img.shields.io/badge/Indonesia-🇮🇩?style=for-the-badge)](#)
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://flutter.dev/">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</a>
+<a href="https://dart.dev/">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</a>
+<a href="https://www.figma.com/">
+<img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nandaridhoalfaroby&label=PROFILE%20VIEWS&color=0072FF&style=for-the-badge"/>
 
 </div>
 
@@ -19,51 +31,76 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Nanda Ridho Alfa Roby**, a student developer from Indonesia passionate about turning ideas into useful digital products.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I enjoy building **Flutter applications, financial tools, agricultural applications, productivity systems, and experimental software projects** while continuously improving my skills in software engineering and UI/UX design.
+I'm **Nanda Ridho Alfa Roby**, a student developer from 🇮🇩 **Indonesia** passionate about turning ideas into useful digital products.
 
-> 💡 **My goal:** Learn → Build → Improve → Share → Create something meaningful.
+I enjoy building:
 
-I'm currently focused on becoming a stronger developer by combining **technology, design, business, and continuous learning**.
+* 📱 **Flutter Applications**
+* 💰 **Financial Tools**
+* 🌾 **Agricultural Applications**
+* 🎨 **UI/UX Experiences**
+* ⚙️ **Productivity Systems**
+* 🚀 **Experimental Software Projects**
 
----
+> 💡 **My philosophy:**
+> **Learn → Build → Improve → Share → Repeat.**
 
-## 🚀 What I'm Doing
+I'm currently focused on combining **technology, design, business, and continuous learning** to create useful digital products.
 
-* 🔭 Building **Flutter applications** and personal software projects
-* 💰 Developing projects related to **finance and income tracking**
-* 🌾 Building **agricultural technology projects**
-* 🎨 Exploring **UI/UX and modern interface design**
-* 🧠 Learning software architecture and database fundamentals
-* 🌐 Learning **Git & GitHub** and open-source workflows
-* 🇬🇧 Improving my **English**
-* 🇨🇳 Learning **Mandarin Chinese**
-* 🚀 Building a portfolio of real-world projects
+<br clear="right"/>
 
 ---
 
-## 🛠️ Currently Learning
+# 🚀 What I'm Doing
 
-```text
-Flutter              ███████████████░░░░░  75%
-Dart                 ██████████████░░░░░░  70%
-Git & GitHub         █████████████░░░░░░░  65%
-UI/UX Design         ████████████░░░░░░░░  60%
-Database             ██████████░░░░░░░░░░  50%
-English              ███████████░░░░░░░░░  55%
-Mandarin Chinese     ██████░░░░░░░░░░░░░░  30%
-```
+| 🟦   | Currently Working On                       |
+| ---- | ------------------------------------------ |
+| 📱   | Building Flutter applications              |
+| 💰   | Developing finance & income tracking tools |
+| 🌾   | Exploring agricultural technology          |
+| 🎨   | Designing modern UI/UX                     |
+| 🧠   | Learning software architecture             |
+| 🗄️  | Learning database fundamentals             |
+| 🌐   | Improving Git & GitHub workflow            |
+| 🇬🇧 | Improving English                          |
+| 🇨🇳 | Learning Mandarin Chinese                  |
+| 🚀   | Building a real-world developer portfolio  |
+
+---
+
+# 🛠️ Currently Learning
+
+<div align="center">
+
+| Skill           | Progress                  |
+| --------------- | ------------------------- |
+| 📱 Flutter      | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ **75%** |
+| 🎯 Dart         | 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ **70%** |
+| 🔀 Git & GitHub | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ **65%**  |
+| 🎨 UI/UX Design | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ **60%**  |
+| 🗄️ Database    | 🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜ **50%**   |
+| 🇬🇧 English    | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ **55%**  |
+| 🇨🇳 Mandarin   | 🟥🟥🟥⬜⬜⬜⬜⬜⬜⬜ **30%**     |
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 ### 🌾 TaniMart Katalog
 
-A Flutter-based agricultural product catalog designed to organize and display agricultural products through a modern mobile interface.
+**Flutter-based agricultural product catalog**
 
-**Tech:** Flutter · Dart · Material 3 · UI/UX
+🌱 Product Management · 🔍 Search · ❤️ Favorites · 🛒 Cart · 🎨 Material 3
+
+**Tech Stack**
+
+`Flutter` `Dart` `Material 3` `UI/UX`
 
 🔗 **[View Project](https://github.com/)**
 
@@ -71,9 +108,13 @@ A Flutter-based agricultural product catalog designed to organize and display ag
 
 ### 💰 Nanda Income — Total Penghasilan
 
-A personal income and financial tracking application designed to monitor income sources, financial progress, and personal financial activity.
+**Personal income & financial tracking application**
 
-**Tech:** Flutter · Dart · Charts · Local Storage
+💵 Income Tracking · 📊 Charts · 💾 Local Storage · 📈 Financial Overview
+
+**Tech Stack**
+
+`Flutter` `Dart` `Charts` `Local Storage`
 
 🔗 **[View Project](https://github.com/)**
 
@@ -81,11 +122,17 @@ A personal income and financial tracking application designed to monitor income 
 
 ### 📊 Finance App
 
-A personal finance dashboard concept focused on income tracking, financial visualization, and simple financial management.
+**Personal finance dashboard**
 
-**Tech:** Flutter · Dart · Data Visualization · UI/UX
+💰 Financial Tracking · 📈 Data Visualization · 🎨 Dashboard UI
+
+**Tech Stack**
+
+`Flutter` `Dart` `Data Visualization` `UI/UX`
 
 🔗 **[View Project](https://github.com/)**
+
+</div>
 
 ---
 
@@ -94,89 +141,96 @@ A personal finance dashboard concept focused on income tracking, financial visua
 ### 📱 Mobile Development
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,android"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind"/>
 </p>
 
 ### 🐍 Programming & Database
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
 </p>
 
-### 🎨 Design & Creative Tools
+### 🎨 Design & Creative
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=figma,ai"/>
 </p>
 
 ---
 
 # 📚 What I Like to Work On
 
-| Area           | Focus                         |
-| -------------- | ----------------------------- |
-| 📱 Mobile      | Flutter & Dart                |
-| 🎨 Design      | UI/UX & Visual Design         |
-| 💰 Finance     | Personal Finance Applications |
-| 🌾 Agriculture | Agricultural Technology       |
-| 🧠 Programming | Software Development          |
-| 🌐 Web         | Frontend Development          |
-| 🗄️ Database   | Data & Storage Fundamentals   |
-| 🚀 Projects    | Building & Experimenting      |
+<div align="center">
+
+|       🧩 Area      | 🎯 Focus                      |
+| :----------------: | ----------------------------- |
+|    📱 **Mobile**   | Flutter & Dart                |
+|    🎨 **Design**   | UI/UX & Visual Design         |
+|   💰 **Finance**   | Personal Finance Applications |
+| 🌾 **Agriculture** | Agricultural Technology       |
+| 🧠 **Programming** | Software Development          |
+|     🌐 **Web**     | Frontend Development          |
+|  🗄️ **Database**  | Data & Storage Fundamentals   |
+|   🚀 **Projects**  | Building & Experimenting      |
+
+</div>
 
 ---
 
 # 🎯 My Developer Journey
 
+<div align="center">
+
 ```text
-Student
-   │
-   ▼
-Learn Programming
-   │
-   ▼
-Build Small Projects
-   │
-   ▼
-Build Real Applications
-   │
-   ▼
-Learn Software Engineering
-   │
-   ▼
-Create Useful Products
-   │
-   ▼
-🚀 Build Something Meaningful
+                    🎓 STUDENT
+                        │
+                        ▼
+                 📚 LEARN PROGRAMMING
+                        │
+                        ▼
+                 🧪 BUILD PROJECTS
+                        │
+                        ▼
+              📱 BUILD REAL APPLICATIONS
+                        │
+                        ▼
+             ⚙️ LEARN SOFTWARE ENGINEERING
+                        │
+                        ▼
+                💡 SOLVE PROBLEMS
+                        │
+                        ▼
+                🚀 CREATE PRODUCTS
+                        │
+                        ▼
+             🌎 BUILD SOMETHING MEANINGFUL
 ```
+
+</div>
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandaridhoalfaroby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nandaridhoalfaroby&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandaridhoalfaroby&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandaridhoalfaroby&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandaridhoalfaroby&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -184,52 +238,62 @@ Create Useful Products
 
 # 🧠 Developer Mindset
 
-> **"Don't just learn technology. Build with it."**
+<div align="center">
 
-I believe that programming becomes more meaningful when knowledge is transformed into something people can actually use.
+### 💡 **"Don't just learn technology. Build with it."**
+
+</div>
+
+Programming becomes more meaningful when knowledge is transformed into something people can actually use.
 
 Every project is an opportunity to:
 
-**Learn something new → Solve a problem → Build something better.**
+**🧠 Learn something new → 🛠️ Solve a problem → 🚀 Build something better**
 
 ---
 
 # 🌎 Languages
 
-🇮🇩 **Indonesian** — Native
-🇬🇧 **English** — Learning & Improving
-🇨🇳 **Mandarin Chinese** — Learning & Improving
+| Language                  | Level                   |
+| ------------------------- | ----------------------- |
+| 🇮🇩 **Indonesian**       | 🟢 Native               |
+| 🇬🇧 **English**          | 🟡 Learning & Improving |
+| 🇨🇳 **Mandarin Chinese** | 🟠 Learning & Improving |
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="left">
+<div align="center">
 
 <a href="https://instagram.com/nandaridho.prime">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.behance.net/nandaralfaro">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="40"/>
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/c/nandaalfaprime">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-</p>
+<a href="mailto:nandaridhoalfaroby@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📧 **Email:** `nandaridhoalfaroby@gmail.com`
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ BUILD. LEARN. CREATE. REPEAT. ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0072FF,100:00C6FF&height=120&section=footer"/>
+
+### ⚡ **BUILD. LEARN. CREATE. REPEAT.** ⚡
 
 **Thanks for visiting my profile! 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=nandaridhoalfaroby&label=Profile%20Views&color=0e75b6&style=flat" />
+⭐ **Feel free to explore my repositories and projects.**
 
 </div>
